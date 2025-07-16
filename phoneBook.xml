@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneBook>
-  <Title>Company Directory</Title>
-  <Unit>
-    <Name>Themis</Name>
-    <Telephone>34901</Telephone>
-  </Unit>
-  <Unit>
-    <Name>Kwstantina</Name>
-    <Telephone>34903</Telephone>
-  </Unit>
+    <Menu Name="Contacts">
+        <Title>Company Directory</Title>
+        <Unit>
+            <Name>Themis</Name>
+            <Telephone>34901</Telephone>
+        </Unit>
+        <Unit>
+            <Name>Kwstantina</Name>
+            <Telephone>34903</Telephone>
+        </Unit>
+    </Menu>
 </YealinkIPPhoneBook>

@@ -1,35 +1,14 @@
-<!-- <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneBook>
   <Title>Company Directory</Title>
   <Menu Name="All Contacts">
     <Unit>
-      <Name>John Doe</Name>
-      <Telephone>1001</Telephone>
-      <Mobile>+1234567890</Mobile>
+      <Name>Themis</Name>
+      <Telephone>34901</Telephone>
     </Unit>
     <Unit>
-      <Name>Jane Smith</Name>
-      <Telephone>1002</Telephone>
-      <Mobile>+1987654321</Mobile>
-    </Unit>
-  </Menu>
-</YealinkIPPhoneBook>
- -->
-
- <?xml version="1.0" encoding="UTF-8"?>
-<YealinkIPPhoneBook>
-  <Title>Company Directory</Title>
-  
-  <Unit>
-    <Name>Themis</Name>
-    <Telephone>34901</Telephone>
-    <!-- <Mobile>+1234567890</Mobile> -->
-  </Unit>
-
-  <Unit>
     <Name>Kwstantina</Name>
     <Telephone>34903</Telephone>
-    <!-- <Mobile>+1987654321</Mobile> -->
-  </Unit>
-
+    </Unit>
+  </Menu>
 </YealinkIPPhoneBook>

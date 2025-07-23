@@ -1,70 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<YealinkIPPhoneBook>
-    <Menu Name="Partners">
-        <Title>Company Directory</Title>
-        <Unit>
-            <Name>Nestoras Mytilini</Name>
-            <Telephone>6942223043</Telephone>
-        </Unit>
-        <Unit>
-            <Name>Michalis Thessaloniki</Name>
-            <Telephone>6984200861</Telephone>
-        </Unit>
-        <Unit>
-            <Name>Christos Thessaloniki</Name>
-            <Telephone>6932232209</Telephone>
-        </Unit>
-        <Unit>
-            <Name>Kwstantinos Skiathos</Name>
-            <Telephone>6979970700</Telephone>
-        </Unit>
-        <Unit>
-            <Name>Zacharopoulos</Name>
-            <Telephone>6932208020</Telephone>
-        </Unit>
-        <Unit>
-            <Name>Filippou</Name>
-            <Telephone>6977710716</Telephone>
-        </Unit>
-        <Unit>
-            <Name>Mhtsogiannis</Name>
-            <Telephone>6982229198</Telephone>
-        </Unit>
-        <Unit>
-            <Name>Agathakis</Name>
-            <Telephone>6948252613</Telephone>
-        </Unit>
-        <Unit>
-            <Name>Lambos</Name>
-            <Telephone>6936103033</Telephone>
-        </Unit>
-        <Unit>
-            <Name>Papadopoulos</Name>
-            <Telephone>6988291078</Telephone>
-        </Unit>
-        <Unit>
-            <Name>Lalios</Name>
-            <Telephone>6975533427</Telephone>
-        </Unit>
-        <Unit>
-            <Name>Markos</Name>
-            <Telephone>6972263916</Telephone>
-        </Unit>
-        <Unit>
-            <Name>Fwtis</Name>
-            <Telephone>6977242818</Telephone>
-        </Unit>
-        <Unit>
-            <Name>Themis</Name>
-            <Telephone>6947484950</Telephone>
-        </Unit>
-        <Unit>
-            <Name>Kwstantina</Name>
-            <Telephone>6986729444</Telephone>
-        </Unit>
-        <Unit>
-            <Name>Diamanto</Name>
-            <Telephone>6988198441</Telephone>
-        </Unit>
-    </Menu>
-</YealinkIPPhoneBook>
+<XXXIPPhoneDirectory>
+    <Title>Company Directory</Title>
+    <Unit>
+        <Name>Nestoras Mytilini</Name>
+        <Telephone>6942223043</Telephone>
+    </Unit>
+    <Unit>
+        <Name>Michalis Thessaloniki</Name>
+        <Telephone>6984200861</Telephone>
+    </Unit>
+    <Unit>
+        <Name>Christos Thessaloniki</Name>
+        <Telephone>6932232209</Telephone>
+    </Unit>
+    <Unit>
+        <Name>Kwstantinos Skiathos</Name>
+        <Telephone>6979970700</Telephone>
+    </Unit>
+    <Unit>
+        <Name>Zacharopoulos</Name>
+        <Telephone>6932208020</Telephone>
+    </Unit>
+    <Unit>
+        <Name>Filippou</Name>
+        <Telephone>6977710716</Telephone>
+    </Unit>
+    <Unit>
+        <Name>Mhtsogiannis</Name>
+        <Telephone>6982229198</Telephone>
+    </Unit>
+    <Unit>
+        <Name>Agathakis</Name>
+        <Telephone>6948252613</Telephone>
+    </Unit>
+    <Unit>
+        <Name>Lambos</Name>
+        <Telephone>6936103033</Telephone>
+    </Unit>
+    <Unit>
+        <Name>Papadopoulos</Name>
+        <Telephone>6988291078</Telephone>
+    </Unit>
+    <Unit>
+        <Name>Lalios</Name>
+        <Telephone>6975533427</Telephone>
+    </Unit>
+    <Unit>
+        <Name>Markos</Name>
+        <Telephone>6972263916</Telephone>
+    </Unit>
+    <Unit>
+        <Name>Fwtis</Name>
+        <Telephone>6977242818</Telephone>
+    </Unit>
+    <Unit>
+        <Name>Themis</Name>
+        <Telephone>6947484950</Telephone>
+    </Unit>
+    <Unit>
+        <Name>Kwstantina</Name>
+        <Telephone>6986729444</Telephone>
+    </Unit>
+    <Unit>
+        <Name>Diamanto</Name>
+        <Telephone>6988198441</Telephone>
+    </Unit>
+</XXXIPPhoneDirectory>
